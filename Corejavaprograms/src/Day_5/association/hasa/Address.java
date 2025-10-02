@@ -1,6 +1,6 @@
-package Day5.association.hasa.hasa;
+package Day_5.association.hasa;
 
-public class address {
+public class Address {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

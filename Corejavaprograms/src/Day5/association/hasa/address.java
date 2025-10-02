@@ -1,6 +1,6 @@
-package Day5.hasa;
+package Day5.association.hasa;
 
-public class Address {
+public class address {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -54,6 +54,8 @@ public class Address {
 
 		public void setPostalCode(String postalCode) {
 			this.postalCode = postalCode;
+		
+
 
 	}
 
