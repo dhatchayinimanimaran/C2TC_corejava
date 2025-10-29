@@ -1,4 +1,4 @@
-package ConcurrentHashMapDemo;
+package Day18.map;
 
 public class ConcurrentHashMapDemo {
 
