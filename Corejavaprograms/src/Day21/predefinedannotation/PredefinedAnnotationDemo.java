@@ -1,4 +1,4 @@
-package PredefinedAnnotationDemo;
+package Day21.predefinedannotation;
 
 public class PredefinedAnnotationDemo {
 	
